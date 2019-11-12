@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    color: gold;
+}
+
+ul {
+    color: white;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 40px;
+}
